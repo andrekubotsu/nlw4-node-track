@@ -1,7 +1,6 @@
-## Projeto desenvolvido na Next Level Week #4 - Trilha Node.js
+# Next Level Week #4 - Node.js Track
 
-# Mini serviço de NPS / Email / Db
-# API Rest de calculo de NPS
+## NPS Service / Email / Db
 
-- Escrito em TypeScript, usando Express e TypeORM para o banco de dados (SQLite);
-- Testes de integração - usando SuperTest para simular as requisições;
+- Written with TypeScript, using Express and TypeORM (SQLite);
+- Tests using SuperTest;
